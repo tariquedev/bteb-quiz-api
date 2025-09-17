@@ -1,0 +1,554 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Which language is primarily used for web page structure?",
+      "options": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+      ],
+      "answer": "HTML"
+    },
+    {
+      "id": 2,
+      "question": "Which language is used for web page styling?",
+      "options": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "C++"
+      ],
+      "answer": "CSS"
+    },
+    {
+      "id": 3,
+      "question": "What does JS stand for?",
+      "options": [
+        "JavaScript",
+        "JavaSource",
+        "JustScript",
+        "JScript"
+      ],
+      "answer": "JavaScript"
+    },
+    {
+      "id": 4,
+      "question": "Which HTML tag is used to display an image?",
+      "options": [
+        "<image>",
+        "<img>",
+        "<pic>",
+        "<src>"
+      ],
+      "answer": "<img>"
+    },
+    {
+      "id": 5,
+      "question": "Which symbol is used for comments in JavaScript?",
+      "options": [
+        "//",
+        "/* */",
+        "#",
+        "<!-- -->"
+      ],
+      "answer": "//"
+    },
+    {
+      "id": 6,
+      "question": "Which database is a NoSQL database?",
+      "options": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Oracle"
+      ],
+      "answer": "MongoDB"
+    },
+    {
+      "id": 7,
+      "question": "What does CSS stand for?",
+      "options": [
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Computer Style System",
+        "Colorful Style Syntax"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 8,
+      "question": "Which HTTP status code means 'Not Found'?",
+      "options": [
+        "200",
+        "301",
+        "404",
+        "500"
+      ],
+      "answer": "404"
+    },
+    {
+      "id": 9,
+      "question": "Which company developed Java?",
+      "options": [
+        "Microsoft",
+        "Sun Microsystems",
+        "IBM",
+        "Google"
+      ],
+      "answer": "Sun Microsystems"
+    },
+    {
+      "id": 10,
+      "question": "Which keyword is used to declare a constant in JavaScript?",
+      "options": [
+        "let",
+        "var",
+        "const",
+        "define"
+      ],
+      "answer": "const"
+    },
+    {
+      "id": 11,
+      "question": "Which HTML tag is used for the largest heading?",
+      "options": [
+        "<h1>",
+        "<h6>",
+        "<head>",
+        "<heading>"
+      ],
+      "answer": "<h1>"
+    },
+    {
+      "id": 12,
+      "question": "Which protocol is secure for communication over the internet?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "answer": "HTTPS"
+    },
+    {
+      "id": 13,
+      "question": "Which SQL keyword is used to retrieve data?",
+      "options": [
+        "GET",
+        "SELECT",
+        "FETCH",
+        "PULL"
+      ],
+      "answer": "SELECT"
+    },
+    {
+      "id": 14,
+      "question": "Which operator is used to check equality in JavaScript?",
+      "options": [
+        "=",
+        "==",
+        "===",
+        "!="
+      ],
+      "answer": "==="
+    },
+    {
+      "id": 15,
+      "question": "Which of these is a Python framework?",
+      "options": [
+        "Laravel",
+        "Django",
+        "Spring",
+        "Rails"
+      ],
+      "answer": "Django"
+    },
+    {
+      "id": 16,
+      "question": "What does API stand for?",
+      "options": [
+        "Application Program Interface",
+        "Application Programming Interface",
+        "Applied Protocol Internet",
+        "Advanced Program Interaction"
+      ],
+      "answer": "Application Programming Interface"
+    },
+    {
+      "id": 17,
+      "question": "Which HTML element is used for line breaks?",
+      "options": [
+        "<br>",
+        "<lb>",
+        "<break>",
+        "<newline>"
+      ],
+      "answer": "<br>"
+    },
+    {
+      "id": 18,
+      "question": "What does JSON stand for?",
+      "options": [
+        "JavaScript Oriented Notation",
+        "JavaScript Object Notation",
+        "Java System Object Name",
+        "Joined Syntax Object Notation"
+      ],
+      "answer": "JavaScript Object Notation"
+    },
+    {
+      "id": 19,
+      "question": "Which of these is a frontend JavaScript framework?",
+      "options": [
+        "React",
+        "Django",
+        "Laravel",
+        "Flask"
+      ],
+      "answer": "React"
+    },
+    {
+      "id": 20,
+      "question": "Which HTML attribute specifies an image source?",
+      "options": [
+        "href",
+        "src",
+        "link",
+        "alt"
+      ],
+      "answer": "src"
+    },
+    {
+      "id": 21,
+      "question": "Which keyword is used to define a function in Python?",
+      "options": [
+        "function",
+        "def",
+        "fun",
+        "method"
+      ],
+      "answer": "def"
+    },
+    {
+      "id": 22,
+      "question": "Which CSS property controls text size?",
+      "options": [
+        "font-style",
+        "font-size",
+        "text-size",
+        "text-style"
+      ],
+      "answer": "font-size"
+    },
+    {
+      "id": 23,
+      "question": "What does SEO stand for?",
+      "options": [
+        "Search Engine Optimization",
+        "System Engine Operation",
+        "Search Engine Organization",
+        "Site Engine Optimization"
+      ],
+      "answer": "Search Engine Optimization"
+    },
+    {
+      "id": 24,
+      "question": "Which company developed the C programming language?",
+      "options": [
+        "Microsoft",
+        "Bell Labs",
+        "IBM",
+        "Apple"
+      ],
+      "answer": "Bell Labs"
+    },
+    {
+      "id": 25,
+      "question": "Which file extension is used for JSON?",
+      "options": [
+        ".json",
+        ".js",
+        ".txt",
+        ".data"
+      ],
+      "answer": ".json"
+    },
+    {
+      "id": 26,
+      "question": "Which symbol is used for ID selectors in CSS?",
+      "options": [
+        ".",
+        "#",
+        "*",
+        "&"
+      ],
+      "answer": "#"
+    },
+    {
+      "id": 27,
+      "question": "Which of these is a JavaScript runtime environment?",
+      "options": [
+        "Apache",
+        "Nginx",
+        "Node.js",
+        "React"
+      ],
+      "answer": "Node.js"
+    },
+    {
+      "id": 28,
+      "question": "Which HTML attribute provides alternative text for images?",
+      "options": [
+        "title",
+        "alt",
+        "src",
+        "href"
+      ],
+      "answer": "alt"
+    },
+    {
+      "id": 29,
+      "question": "Which SQL command is used to remove a record?",
+      "options": [
+        "DELETE",
+        "REMOVE",
+        "DROP",
+        "TRUNCATE"
+      ],
+      "answer": "DELETE"
+    },
+    {
+      "id": 30,
+      "question": "Which company owns GitHub?",
+      "options": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Amazon"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 31,
+      "question": "What is the default port of HTTP?",
+      "options": [
+        "21",
+        "25",
+        "80",
+        "443"
+      ],
+      "answer": "80"
+    },
+    {
+      "id": 32,
+      "question": "What is the default port of HTTPS?",
+      "options": [
+        "21",
+        "25",
+        "80",
+        "443"
+      ],
+      "answer": "443"
+    },
+    {
+      "id": 33,
+      "question": "Which HTML tag is used for creating a hyperlink?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<href>",
+        "<url>"
+      ],
+      "answer": "<a>"
+    },
+    {
+      "id": 34,
+      "question": "Which keyword is used to declare a variable in Java?",
+      "options": [
+        "var",
+        "let",
+        "int",
+        "declare"
+      ],
+      "answer": "int"
+    },
+    {
+      "id": 35,
+      "question": "Which CSS property changes text color?",
+      "options": [
+        "color",
+        "background-color",
+        "font-color",
+        "text-style"
+      ],
+      "answer": "color"
+    },
+    {
+      "id": 36,
+      "question": "Which operator is used to concatenate strings in JavaScript?",
+      "options": [
+        "+",
+        "&",
+        "*",
+        "."
+      ],
+      "answer": "+"
+    },
+    {
+      "id": 37,
+      "question": "Which Python library is used for data analysis?",
+      "options": [
+        "Flask",
+        "NumPy",
+        "Pandas",
+        "Matplotlib"
+      ],
+      "answer": "Pandas"
+    },
+    {
+      "id": 38,
+      "question": "Which HTML tag is used for ordered lists?",
+      "options": [
+        "<ul>",
+        "<ol>",
+        "<list>",
+        "<li>"
+      ],
+      "answer": "<ol>"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is NOT an operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Oracle",
+        "macOS"
+      ],
+      "answer": "Oracle"
+    },
+    {
+      "id": 40,
+      "question": "Which programming language is mainly used for Android development?",
+      "options": [
+        "Swift",
+        "Java",
+        "Kotlin",
+        "C#"
+      ],
+      "answer": "Kotlin"
+    },
+    {
+      "id": 41,
+      "question": "Which HTTP method is used to update data?",
+      "options": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "answer": "PUT"
+    },
+    {
+      "id": 42,
+      "question": "Which tag is used to display a table in HTML?",
+      "options": [
+        "<tr>",
+        "<td>",
+        "<table>",
+        "<th>"
+      ],
+      "answer": "<table>"
+    },
+    {
+      "id": 43,
+      "question": "What is the extension of a Python file?",
+      "options": [
+        ".java",
+        ".py",
+        ".js",
+        ".php"
+      ],
+      "answer": ".py"
+    },
+    {
+      "id": 44,
+      "question": "Which JavaScript function is used to print messages in the console?",
+      "options": [
+        "print()",
+        "log()",
+        "console.log()",
+        "echo()"
+      ],
+      "answer": "console.log()"
+    },
+    {
+      "id": 45,
+      "question": "Which HTML element is used for dropdown lists?",
+      "options": [
+        "<input>",
+        "<select>",
+        "<list>",
+        "<dropdown>"
+      ],
+      "answer": "<select>"
+    },
+    {
+      "id": 46,
+      "question": "Which CSS unit is relative to the parent element?",
+      "options": [
+        "px",
+        "em",
+        "cm",
+        "pt"
+      ],
+      "answer": "em"
+    },
+    {
+      "id": 47,
+      "question": "Which HTTP method is used to fetch data?",
+      "options": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH"
+      ],
+      "answer": "GET"
+    },
+    {
+      "id": 48,
+      "question": "Which HTML tag is used for checkboxes?",
+      "options": [
+        "<checkbox>",
+        "<check>",
+        "<input type='checkbox'>",
+        "<option>"
+      ],
+      "answer": "<input type='checkbox'>"
+    },
+    {
+      "id": 49,
+      "question": "Which company developed TypeScript?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Facebook",
+        "Amazon"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is a version control system?",
+      "options": [
+        "Docker",
+        "Git",
+        "Jenkins",
+        "Kubernetes"
+      ],
+      "answer": "Git"
+    }
+  ]
+}
